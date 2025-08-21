@@ -11,6 +11,7 @@ Je länger ich am Laptop arbeite und je häufiger ich mehrere Stunden ohne richt
 
 Um dies zu ändern, habe ich ein kleines, simples Programm geschrieben, das einen daran erinnert, den Augen eine Pause zu gönnen.
 
+&nbsp;
 
 # Idee "Eye-Care-App"
 Warum eine eigene Applikation und nicht einfach einen Timer stellen?
@@ -20,12 +21,14 @@ Um diesen Prozess zu vereinfachen, bzw. zu Optimieren, wollte ich eine Applikati
 
 Für die Umsetzung wollte ich ausserdem ein neues GUI-Framework ausprobieren, Ich habe mich deshalb für WPF (Windows Presentation Foundation) entschieden. Das zusammenspiel aus Design und Funktion ist Simpel, wehsalb es perfekt war für eine kleine Applikation wie diese. Nach rund 30 Minuten hatte ich das Prinzip verstanden und konnte mit der Applikation beginnen.
 
+&nbsp;
+
 # Applikation
 Die Fertige Applikation ist nicht umbedingt die schönste, worauf ich aber auch keinen Wert gelegt habe. Es ist ein simples kleines Fenster bei welchem man in einer Drop-down Liste die Zeit auswählen kann. Ich habe mich für die range von 5-60 Minuten entschieden, da man sowieso mindestens jede Stunde eine kleine Pause für die Augen machen sollte.
 
 Unter dem Info Knopf findet man eine Inspiration über die 20-20-20 Regel, damit man einen Ansatz hat wie man die Applikation benutzen könnte. 
 
-nbsp
+&nbsp;
 
 ## Bilder
 
