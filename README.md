@@ -4,7 +4,7 @@ Huber Fynn 21.08.2025
 **Applikation welche einem fortlaufend, z.B alle 20 Minuten, eine Benachrichtigung anzeigt, dass man seine Augen kurz ausruhen sollte.**
 
 &nbsp;
-------------------------------------------
+
 
 # Entstehung
 Je länger ich am Laptop arbeite und je häufiger ich mehrere Stunden ohne richtige Pause verbringe, desto mehr merke ich, dass sich dies negativ auf meine Leistungsfähigkeit auswirkt. Im Hinterkopf war mir immer bewusst, dass man regelmässig Pausen machen sollte, um die Augen zu entspannen, daran gehalten habe ich mich jedoch nie.
@@ -24,6 +24,8 @@ Für die Umsetzung wollte ich ausserdem ein neues GUI-Framework ausprobieren, Ic
 Die Fertige Applikation ist nicht umbedingt die schönste, worauf ich aber auch keinen Wert gelegt habe. Es ist ein simples kleines Fenster bei welchem man in einer Drop-down Liste die Zeit auswählen kann. Ich habe mich für die range von 5-60 Minuten entschieden, da man sowieso mindestens jede Stunde eine kleine Pause für die Augen machen sollte.
 
 Unter dem Info Knopf findet man eine Inspiration über die 20-20-20 Regel, damit man einen Ansatz hat wie man die Applikation benutzen könnte. 
+
+nbsp
 
 ## Bilder
 
