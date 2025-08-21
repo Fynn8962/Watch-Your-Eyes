@@ -20,3 +20,5 @@ Die Fertige Applikation ist nicht umbedingt die schönste, worauf ich aber auch 
 
 Unter dem Info Knopf findet man eine Inspiration über die 20-20-20 Regel, damit man einen Ansatz hat wie man die Applikation benutzen könnte. 
 
+## Bilder
+<img src="https://github.com/Fynn8962/Watch-Your-Eyes-/blob/main/images/App.png" alt="App GUI" width="500" >
