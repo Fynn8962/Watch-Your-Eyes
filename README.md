@@ -46,5 +46,26 @@ Unter dem Info Knopf findet man eine Inspiration über die 20-20-20 Regel, damit
 
 **Benachrichtigung**    
 <img src="https://github.com/Fynn8962/Watch-Your-Eyes-/blob/main/images/App_message.png" alt="Benachrichtigung unten rechts" width="500" >
-<img src="https://github.com/Fynn8962/Watch-Your-Eyes-/blob/main/images/App_message_zoom.png" alt="Benachrichtigung gross" width="500" >                                  
+<img src="https://github.com/Fynn8962/Watch-Your-Eyes-/blob/main/images/App_message_zoom.png" alt="Benachrichtigung gross" width="500" >       
+
+&nbsp;
+
+## Probleme und Behebungen
+
+**1. Wenn man ohne Zeitauswahl auf den Start-Knopf drückt, stürzt das Programm ab.**
+Um dies zu beheben, habe ich am Anfang der Methode, welche für die Funktionen des Timers verantwortlich ist, eine Überprüfung gemacht, ob das Dropdown-Menü (SetCountdown) null ist. Falls ja, wird die Methode abgebrochen.
+
+**2. Der Timer lässt sich nicht stoppen.**
+Als ich fertig war, habe ich gemerkt, dass sich der Timer nicht stoppen liess, was ja sehr kontraproduktiv ist. Deshalb habe ich eine Umgebungsvariable namens "isStarted" erstellt. Diese wird, wenn der Timer gestartet wird, auf true gesetzt. Beim erneuten Drücken des Start-Buttons wird überprüft, welchen Wert diese Variable hat. Je nachdem wird dann der Timer gestoppt oder gestartet.
+
+**3. Auswahl der Zeit und einsetzen in der Timer Funktion ohne Fehler.**
+Anfangs wollte ich das man die Zeit frei eintippen kann. Da dies jedoch zu unnötigen Problemen wie Eingabefehlern, zu grosse Werte, falscher Syntax etc. kommen kann, habe ich mich für die Dropdown Liste entschieden. 
+Anfangs habe ich beim Auswählen der Zeit die entsprechenden Sekunden an die Methode übergeben, um diese dann in Minuten und Sekunden umzurechnen, schnell merkte ich jedoch, dass dies ein besser gehen musste.
+Mithilfe von Tutorials habe ich herausgefunden, dass es schon integrierte Methoden gibt, um mit Zeitwerten umzugehen. Mithilfe von KI habe mir die Umsetzung erklären lassen und konnte somit erfolgreich die Funktion des Timers umsetzen. 
+
+&nbsp;
+
+# Fazit
+Das ziel des kleinen Projekts war nicht umbedingt etwas neues zu lernen, sondern eine Applikation zu schreiben welche ich einsetzen kann. Trotzdem habe ich neue Dinge gelernt und auch eine neue Art GUI-Framework. Ich habe genau das erreicht was ich erreichen wollte. Eine Applikation welche mir eine bestimmte Tätigkeit erleichtert. 
+
 
