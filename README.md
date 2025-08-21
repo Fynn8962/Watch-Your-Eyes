@@ -29,9 +29,12 @@ Unter dem Info Knopf findet man eine Inspiration über die 20-20-20 Regel, damit
 **Benutzeroberfläche Zeit auswählen**                                              
 <img src="https://github.com/Fynn8962/Watch-Your-Eyes-/blob/main/images/App_select_time.png" alt="App Benutzeroberfläche Zeitauswahl" width="500" >
 
+
 **Infofenster Text**                                      
 <img src="https://github.com/Fynn8962/Watch-Your-Eyes-/blob/main/images/App_info.png" alt="Text Infofenster" width="500" >
 
-**Benachrichtigung**                                    
-<img src="https://github.com/Fynn8962/Watch-Your-Eyes-/blob/main/images/App_message_zoom.png" alt="Benachrichtigung gross" width="500" >                                  
+
+**Benachrichtigung**    
 <img src="https://github.com/Fynn8962/Watch-Your-Eyes-/blob/main/images/App_message.png" alt="Benachrichtigung unten rechts" width="500" >
+<img src="https://github.com/Fynn8962/Watch-Your-Eyes-/blob/main/images/App_message_zoom.png" alt="Benachrichtigung gross" width="500" >                                  
+
