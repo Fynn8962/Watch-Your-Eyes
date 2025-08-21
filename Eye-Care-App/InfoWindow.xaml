@@ -1,0 +1,38 @@
+﻿<Window x:Class="Eye_Care_App.InfoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Eye_Care_App"
+        mc:Ignorable="d"
+        Title="Info"
+        Height="380"
+        Width="400"
+        Background="#FF323232"
+        Foreground="White"
+        ResizeMode="CanMinimize">
+
+    <Grid>
+        <TextBlock Text="20-20-20 rule"
+                   FontSize="25"
+                   TextAlignment="Center"/>
+
+        <TextBlock FontSize="16"
+                   TextWrapping="Wrap"
+                   TextAlignment="Left"
+                   Padding="20"
+                   Margin="0,20,0,0">
+            The "20-20-20 rule" is a guideline to help reduce eye strain, especially for those who spend extended periods looking at digital screens. 
+            It suggests that every 20 minutes, you should look at something 20 feet (6 meters) away for at least 20 seconds. 
+            This practice allows your eye muscles to relax, potentially alleviating symptoms of digital eye strain like dry eyes and headaches.
+        </TextBlock>
+
+        <TextBlock FontSize="16"
+                   TextWrapping="Wrap"
+                   Padding="20"
+                   VerticalAlignment="Bottom"
+                   HorizontalAlignment="Left">
+            The timer repeats automatically if you don't stop it.
+        </TextBlock>
+    </Grid>
+</Window>
