@@ -1,6 +1,11 @@
 # Watch-Your-Eyes-
 Huber Fynn 21.08.2025
 
+**Applikation welche einem fortlaufend, z.B alle 20 Minuten, eine Benachrichtigung anzeigt, dass man seine Augen kurz ausruhen sollte.**
+
+&nbsp;
+------------------------------------------
+
 # Entstehung
 Je länger ich am Laptop arbeite und je häufiger ich mehrere Stunden ohne richtige Pause verbringe, desto mehr merke ich, dass sich dies negativ auf meine Leistungsfähigkeit auswirkt. Im Hinterkopf war mir immer bewusst, dass man regelmässig Pausen machen sollte, um die Augen zu entspannen, daran gehalten habe ich mich jedoch nie.
 
